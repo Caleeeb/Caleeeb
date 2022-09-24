@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-## My name is Caleb Day
+### My name is Caleb Day
 
 - 💻 Web Developer
 - 🔭 I’m currently working on Glassfiller 2.0 a cocktail recipe app
